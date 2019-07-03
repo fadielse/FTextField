@@ -30,7 +30,7 @@ Custom TextField who inspired by LEGEND HTML tag. Written in swift 4.2
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'FTextField/FTextField/Classes/**/*.{h,m,swift}'
+  s.source_files = 'FTextField/Classes/**/*.{h,m,swift}'
   
   # s.resource_bundles = {
   #   'FTextField' => ['FTextField/Assets/*.png']
