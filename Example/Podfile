@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FTextField_Example' do
+  pod 'FTextField', :path => '../'
+
+  target 'FTextField_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
