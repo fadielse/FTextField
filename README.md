@@ -22,7 +22,7 @@ pod 'FTextField'
 
 ## Author
 
-fadielse, fadil_boyz@ymail.com
+fadielse, fadielse@gmail.com
 
 ## License
 
