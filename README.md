@@ -1,6 +1,5 @@
 # FTextField
 
-[![CI Status](https://img.shields.io/travis/fadielse/FTextField.svg?style=flat)](https://travis-ci.org/fadielse/FTextField)
 [![Version](https://img.shields.io/cocoapods/v/FTextField.svg?style=flat)](https://cocoapods.org/pods/FTextField)
 [![License](https://img.shields.io/cocoapods/l/FTextField.svg?style=flat)](https://cocoapods.org/pods/FTextField)
 [![Platform](https://img.shields.io/cocoapods/p/FTextField.svg?style=flat)](https://cocoapods.org/pods/FTextField)
